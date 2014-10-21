@@ -31,7 +31,8 @@
     "jshint": "gulp lint"
   },
   "dependencies": {
-    "lodash": "2.*"
+    "lodash": "2.*",
+    "request": "^2.45.0"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
