@@ -1,4 +1,4 @@
 worldpay
 ========
 
-Not official node lib for http://www.worldpay.com
+Official node lib for http://online.worldpay.com
